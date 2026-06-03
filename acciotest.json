@@ -1,0 +1,4 @@
+{
+    "testRepo": "within-budget-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
